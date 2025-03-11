@@ -1,0 +1,126 @@
+.fondo{
+    background-color: black;
+    padding: 50px;
+    display: grid;
+    grid-template-areas: "cuadro1 cuadro1 cuadro1 cuadro1 cuadro1 cuadro1 cuadro1"
+                         "cuadro2 cuadro2 cuadro2 cuadro2 cuadro2 cuadro2 cuadro2"
+                         "cuadro3 cuadro5 cuadro7 cuadro7 cuadro8 cuadro9 cuadro9"
+                         "cuadro3 cuadro5 cuadro7 cuadro7 cuadro8 cuadro10 cuadro11"
+                         "cuadro4 cuadro6 cuadro7 cuadro7 cuadro8 cuadro10 cuadro12"
+                         "cuadro4 cuadro6 cuadro7 cuadro7 cuadro8 cuadro10 cuadro13"
+                         "cuadro14 cuadro14 cuadro14 cuadro15 cuadro15 cuadro15 cuadro15"
+                         "cuadro16 cuadro16 cuadro16 cuadro16 cuadro16 cuadro16 cuadro16";
+}
+
+.fondo .cuadro1{
+    background-color: blue;
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro1;
+}
+
+.fondo .cuadro2{
+    background-color: rgb(13, 13, 236);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro2;
+}
+
+.fondo .cuadro3{
+    background-color: rgb(22, 22, 223);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro3;
+}
+
+.fondo .cuadro4{
+    background-color: rgb(0, 153, 255);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro4;
+}
+
+
+.fondo .cuadro5{
+    background-color: rgb(66, 76, 207);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro5;
+}
+
+.fondo .cuadro6{
+    background-color: rgb(26, 35, 168);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro6;
+}
+
+.fondo .cuadro7{
+    background-color: rgb(55, 114, 202);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro7;
+}
+
+.fondo .cuadro8{
+    background-color: rgb(20, 189, 240);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro8;
+}
+
+.fondo .cuadro9{
+    background-color: rgb(10, 39, 138);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro9;
+}
+
+.fondo .cuadro10{
+    background-color: rgb(7, 80, 214);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro10;
+}
+
+.fondo .cuadro11{
+    background-color: rgb(7, 58, 167);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro11;
+}
+
+.fondo .cuadro12{
+    background-color: rgb(45, 80, 194);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro12;
+}
+
+.fondo .cuadro13{
+    background-color: rgb(64, 164, 245);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro13;
+}
+
+.fondo .cuadro14{
+    background-color: rgb(106, 248, 248);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro14;
+}
+
+.fondo .cuadro15{
+    background-color: rgb(9, 160, 160);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro15;
+}
+
+.fondo .cuadro16{
+    background-color: rgb(39, 236, 236);
+    margin: 5px;
+    text-align: center;
+    grid-area: cuadro16;
+}
