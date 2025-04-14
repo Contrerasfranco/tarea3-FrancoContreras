@@ -1,0 +1,23 @@
+.d-tem{
+    height: 500px;
+}.d-img{
+    width: 700px;
+    height: 700px;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+body.recetas{
+    margin: 0;
+    padding: 0;
+    background-image:url(imagenes/data=6WvH6iXjw0yYIyPgzTUxBl-Cf-cGpA3Stz7XCNDu9KnMyMR0YFjFQ_zfc1jS7GdcrT7EgCfIsMk4LEVicazaQjp2zPEImMl_97ADi5r0jUTEV8nwm6tIGFAnMa9oAi7MRlQSL6Rr0vk0O4sTXqLqsz9Iui0DK3kO572WysbnHx9A.png) ;
+    background-size: cover;
+    background-repeat: center;
+    align-items: center;
+}
+body.tradiciones{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: center;
+    align-items: center;
+}
